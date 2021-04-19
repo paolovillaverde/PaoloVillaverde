@@ -2,14 +2,14 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo;  &#8212; WordPress</title>
+	<title>Log In &lsaquo; PaoloVillaverde &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/css/dashicons.min.css?ver=5.7" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/css/buttons.min.css?ver=5.7" media="all">
-<link rel="stylesheet" id="forms-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/css/forms.min.css?ver=5.7" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/css/l10n.min.css?ver=5.7" media="all">
-<link rel="stylesheet" id="login-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/css/login.min.css?ver=5.7" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/css/dashicons.min.css?ver=5.7.1" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/css/buttons.min.css?ver=5.7.1" media="all">
+<link rel="stylesheet" id="forms-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/css/forms.min.css?ver=5.7.1" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/css/l10n.min.css?ver=5.7.1" media="all">
+<link rel="stylesheet" id="login-css" href="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/css/login.min.css?ver=5.7.1" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -51,8 +51,8 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://paolovillaverde.github.io/PaoloVillaverde/">&larr; Go to </a>		</p>
-		<div class="privacy-policy-page-link"><a class="privacy-policy-link" href="https://paolovillaverde.github.io/PaoloVillaverde/index.php/2021/04/16/hello-world/">Hello world!</a></div>	</div>
+			<a href="https://paolovillaverde.github.io/PaoloVillaverde/">&larr; Go to PaoloVillaverde</a>		</p>
+			</div>
 	<script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script id="zxcvbn-async-js-extra">
@@ -66,7 +66,7 @@ var _zxcvbnSettings = {"src":"https:\/\/paolovillaverde.github.io\/PaoloVillaver
 <script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
 <script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
+wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script id="password-strength-meter-js-extra">
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
@@ -78,14 +78,14 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/js/password-strength-meter.min.js?ver=5.7" id="password-strength-meter-js"></script>
+<script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/js/password-strength-meter.min.js?ver=5.7.1" id="password-strength-meter-js"></script>
 <script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/PaoloVillaverde\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/js/wp-util.min.js?ver=5.7" id="wp-util-js"></script>
+<script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-includes/js/wp-util.min.js?ver=5.7.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"bef301df93"};
+var userProfileL10n = {"user_id":"0","nonce":"584780ae62"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
@@ -94,7 +94,7 @@ var userProfileL10n = {"user_id":"0","nonce":"bef301df93"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/js/user-profile.min.js?ver=5.7" id="user-profile-js"></script>
+<script src="https://paolovillaverde.github.io/PaoloVillaverde/wp-admin/js/user-profile.min.js?ver=5.7.1" id="user-profile-js"></script>
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
